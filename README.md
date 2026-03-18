@@ -2,7 +2,7 @@
 
 A full-stack product catalog application built with ASP.NET Core (C#) for the backend and React (TypeScript, Vite) for the frontend. The application provides a modern, responsive interface for browsing products, viewing detailed information, and reading reviews.
 
-**Live Application:** https://productcatalog.paweldywandev.com/
+**Live Application:** https://productcatalog.paweldywan.com/
 
 ## Table of Contents
 
@@ -331,7 +331,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Pawel Dywan**
 - GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: [https://paweldywandev.com/](https://paweldywandev.com/)
+- Website: [https://paweldywan.com/](https://paweldywan.com/)
 
 ## Acknowledgments
 
