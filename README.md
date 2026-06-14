@@ -117,7 +117,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/paweldywandev/ProductCatalog.git
+   git clone https://github.com/paweldywan/ProductCatalog.git
    cd ProductCatalog
    ```
 
@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 **Pawel Dywan**
-- GitHub: [@paweldywandev](https://github.com/paweldywandev)
+- GitHub: [@paweldywan](https://github.com/paweldywan)
 - Website: [https://paweldywan.com/](https://paweldywan.com/)
 
 ## Acknowledgments
